@@ -1,6 +1,11 @@
 .idea
 package-lock.json
 
+bootstrap-angular-app/.editorconfig
+bootstrap-angular-app/.gitignore
+bootstrap-angular-app/.vscode
+
+
 # Logs
 logs
 *.log
