@@ -1,8 +1,9 @@
 .idea
-./first-angular-app/.vscode
-./first-angular-app/.angular
-./package-lock.json
-./first-angular-app/package-lock.json
+package-lock.json
+
+first-angular-app/.vscode
+first-angular-app/.angular
+first-angular-app/package-lock.json
 # Logs
 logs
 *.log
