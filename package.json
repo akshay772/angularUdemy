@@ -1,0 +1,22 @@
+{
+  "name": "angularudemy",
+  "version": "1.0.0",
+  "description": "Learning angular with typescript from Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/akshay772/angularUdemy.git"
+  },
+  "author": "Akshya Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshay772/angularUdemy/issues"
+  },
+  "homepage": "https://github.com/akshay772/angularUdemy#readme",
+  "dependencies": {
+    "@angular/cli": "^15.1.5"
+  }
+}
