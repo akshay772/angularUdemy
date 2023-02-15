@@ -1,3 +1,6 @@
+.idea
+./first-angular-app/.vscode
+./first-angular-app/.angular
 # Logs
 logs
 *.log
