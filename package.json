@@ -13,9 +13,9 @@
   "author": "Akshya Singh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/akshay772/angularUdemy/issues"
+    "url": "https://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@github.com/akshay772/angularUdemy/issues"
   },
-  "homepage": "https://github.com/akshay772/angularUdemy#readme",
+  "homepage": "https://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@github.com/akshay772/angularUdemy#readme",
   "dependencies": {
     "@angular/cli": "^15.1.5"
   }
